@@ -1,3 +1,4 @@
+
 # MySQL 设计和原理
 ## [MySQL Data Type](datatype/README.md)
 
@@ -12,3 +13,4 @@
 
 # [高可用](HA/README.md)
 # [高性能](HP/README.md)
+
