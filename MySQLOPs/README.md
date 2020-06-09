@@ -1,6 +1,7 @@
 # OP
 
-## Install
+## Install  
+
 ```bash
 # 下载并安装MySQL官方的 Yum Repository
 # wget -i -c http://dev.mysql.com/get/mysql57-community-release-el7-10.noarch.rpm
@@ -31,5 +32,7 @@ mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
 
 ## 授权 
 mysql> grant all on *.* to root@'%' identified by 'root';
-```
+``` 
+
+
 
