@@ -3,7 +3,8 @@
 The easiest way to write SQL in Java
 
 是一个基于 Java 编写SQL的工具包，  
-具有：简单、轻量、函数式编程写SQL等独特优势，非常适合敏捷快速迭代开发。
+具有：
+简单、轻量、函数式编程写SQL等独特优势，非常适合敏捷快速迭代开发。
 使用jOOQ，SQL 看起来好像是由Java原生支持的，保留SQL原有的简单。
 
 ```sql
